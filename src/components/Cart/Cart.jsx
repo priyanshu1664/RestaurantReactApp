@@ -1,6 +1,6 @@
 import React from "react";
 import Modal from "../UI/Modal";
-import classes from "";
+import classes from "./Cart.module.css";
 
 function Cart(props) {
   const cartItems = (
